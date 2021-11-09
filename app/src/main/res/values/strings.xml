@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">ListDemo</string>
+    <string name="item_image">item\'s image</string>
+    <string name="title">title</string>
+</resources>
